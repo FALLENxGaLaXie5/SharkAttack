@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: 8962f3f24e7d1054580ab5a46da82e5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -982231061363682514
+    second: Shark Game powerup sprites_0
+  - first:
+      213: -4384044499918293647
+    second: Shark Game powerup sprites_1
+  - first:
+      213: -6937773882766370639
+    second: Shark Game powerup sprites_2
+  - first:
+      213: -2229059324739612039
+    second: Shark Game powerup sprites_3
+  - first:
+      213: 2910897686425547989
+    second: Shark Game powerup sprites_4
+  - first:
+      213: -1136535490074545926
+    second: Shark Game powerup sprites_5
+  - first:
+      213: 8808675224337457133
+    second: Shark Game powerup sprites_6
+  - first:
+      213: -5493819591917441520
+    second: Shark Game powerup sprites_7
+  - first:
+      213: -2335285064072792099
+    second: Shark Game powerup sprites_8
+  - first:
+      213: 3442391229328074527
+    second: Shark Game powerup sprites_9
+  - first:
+      213: 3792609189140936485
+    second: Shark Game powerup sprites_10
+  - first:
+      213: 6003592370649287434
+    second: Shark Game powerup sprites_11
+  - first:
+      213: 6208788743457686492
+    second: Shark Game powerup sprites_12
+  - first:
+      213: -3627133256684429880
+    second: Shark Game powerup sprites_13
+  - first:
+      213: 3558301178348405967
+    second: Shark Game powerup sprites_14
+  - first:
+      213: -1799214376184938588
+    second: Shark Game powerup sprites_15
+  - first:
+      213: -4047247154346950834
+    second: Shark Game powerup sprites_16
+  - first:
+      213: -5955509558471730324
+    second: Shark Game powerup sprites_17
+  - first:
+      213: -6873725938244311288
+    second: Shark Game powerup sprites_18
+  - first:
+      213: 5280429790024692782
+    second: Shark Game powerup sprites_19
+  - first:
+      213: 8118309281017858562
+    second: Shark Game powerup sprites_20
+  - first:
+      213: -5564148817926700095
+    second: Shark Game powerup sprites_21
+  - first:
+      213: -4819620087523329854
+    second: Shark Game powerup sprites_22
+  - first:
+      213: 2405479768988610343
+    second: Shark Game powerup sprites_23
+  - first:
+      213: -1285472091864839374
+    second: Shark Game powerup sprites_24
+  - first:
+      213: 7949716763139000923
+    second: Shark Game powerup sprites_25
+  - first:
+      213: -8367249522527247648
+    second: Shark Game powerup sprites_26
+  - first:
+      213: -3657538968843506865
+    second: Shark Game powerup sprites_27
+  - first:
+      213: 3035448929855928058
+    second: Shark Game powerup sprites_28
+  - first:
+      213: -1028466558026654550
+    second: Shark Game powerup sprites_29
+  - first:
+      213: -33065657454641541
+    second: Shark Game powerup sprites_30
+  - first:
+      213: -577166153477782769
+    second: Shark Game powerup sprites_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_0
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2390
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9fe454a049e1f4b942afb7970df7e4
+      internalID: -982231061363682514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_1
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2374
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7d2631e106dd74c95382abd84afd6f
+      internalID: -4384044499918293647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_2
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2374
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f889ac188f0e846a7da9547115288c
+      internalID: -6937773882766370639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_3
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 2390
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2828f5b5da0120347ac36fd67f14babe
+      internalID: -2229059324739612039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_4
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2374
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702dec5153c156c42966087e6554d24b
+      internalID: 2910897686425547989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_5
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 2374
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c843c3183c8d3b43ac3d866018fc9d9
+      internalID: -1136535490074545926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2358
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d748dd56264c34a815240e6327e4b7
+      internalID: 8808675224337457133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_7
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2343
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ca819f133795c4b930260fdab51642
+      internalID: -5493819591917441520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_8
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 2343
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38231b42f715d964890d5f5eaf7c871e
+      internalID: -2335285064072792099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2343
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f41d7358410ee842973d52c5401bfe8
+      internalID: 3442391229328074527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 2343
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52077126815d6d544b5795ffea1fb924
+      internalID: 3792609189140936485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2155
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a1b8aeb37767b4d9fadd5fb24622a5
+      internalID: 6003592370649287434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2155
+        width: 141
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6b8466ffa1e3147a2e066e01356222
+      internalID: 6208788743457686492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_13
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2311
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d025ea3ea4dfe4d8a1dc68dd3ea270
+      internalID: -3627133256684429880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_14
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 2155
+        width: 142
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd41a90f9dc2be4d9ad27fad9f49a12
+      internalID: 3558301178348405967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_15
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2327
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b698237d3543fcc4a8e59754c9278d22
+      internalID: -1799214376184938588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_16
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 2311
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291dc9f2434818a48921c77dbc51e8f8
+      internalID: -4047247154346950834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_17
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 2155
+        width: 141
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6d621df84a1284d92a041edd62a4c5
+      internalID: -5955509558471730324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1655
+        width: 142
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af12eb71992f6234e9cfef3e49dfafa1
+      internalID: -6873725938244311288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1655
+        width: 141
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8c0bd1ea464fe41b228adab7bda8cd
+      internalID: 5280429790024692782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_20
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1655
+        width: 142
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65972bce29090f646a3c24eea43bf008
+      internalID: 8118309281017858562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_21
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1655
+        width: 141
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003971a5e02064849be38d08d606ae0a
+      internalID: -5564148817926700095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1187
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a3fa6bc8005ec479d99f59c0fadac1
+      internalID: -4819620087523329854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1187
+        width: 141
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1fc315d0674ab4e9d790c8ac1b44b4
+      internalID: 2405479768988610343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_24
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1187
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf93f70305baec488161de9b13e923f
+      internalID: -1285472091864839374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_25
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1187
+        width: 141
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db7be0b4e2fc754e93a52f850fb5629
+      internalID: 7949716763139000923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_26
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 686
+        width: 142
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3925ec98edb4a148a97ad3fbba8dba9
+      internalID: -8367249522527247648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 686
+        width: 141
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a8e8a0ef6bc4940ba2fb5d83938970
+      internalID: -3657538968843506865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_28
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 671
+        width: 173
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3512decad611c40960b7e6ed80cbd0
+      internalID: 3035448929855928058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_29
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 686
+        width: 141
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f86caa372e547b4797af9a6759f159d
+      internalID: -1028466558026654550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_30
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 171
+        width: 173
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e58fa945d64814c9af070146b3409f
+      internalID: -33065657454641541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark Game powerup sprites_31
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1663
+        width: 116
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f0703f5b76165499cae8794e216142
+      internalID: -577166153477782769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

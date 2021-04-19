@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: 14a6971f955753442a6db3be90b239e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5129089909869770803
+    second: Boat mine hook 583x500_0
+  - first:
+      213: -8381565406742539961
+    second: Boat mine hook 583x500_1
+  - first:
+      213: -3376682441404399483
+    second: Boat mine hook 583x500_2
+  - first:
+      213: 5026713519557113366
+    second: Boat mine hook 583x500_3
+  - first:
+      213: 7229455832084475449
+    second: Boat mine hook 583x500_4
+  - first:
+      213: 3667082999650529755
+    second: Boat mine hook 583x500_5
+  - first:
+      213: 6091170448407838894
+    second: Boat mine hook 583x500_6
+  - first:
+      213: -1109480734086227177
+    second: Boat mine hook 583x500_7
+  - first:
+      213: -4469009819845926901
+    second: Boat mine hook 583x500_8
+  - first:
+      213: -6716258995690484413
+    second: Boat mine hook 583x500_9
+  - first:
+      213: -2007292750256350292
+    second: Boat mine hook 583x500_10
+  - first:
+      213: 7262065906311159948
+    second: Boat mine hook 583x500_11
+  - first:
+      213: -150114997959652665
+    second: Boat mine hook 583x500_12
+  - first:
+      213: -1947089795108095598
+    second: Boat mine hook 583x500_13
+  - first:
+      213: -3390618392118376491
+    second: Boat mine hook 583x500_14
+  - first:
+      213: -2641588059371654146
+    second: Boat mine hook 583x500_15
+  - first:
+      213: 5077328092390707222
+    second: Boat mine hook 583x500_16
+  - first:
+      213: 8546654167608682823
+    second: Boat mine hook 583x500_17
+  - first:
+      213: 3972226042067044177
+    second: Boat mine hook 583x500_18
+  - first:
+      213: -8099577582995162929
+    second: Boat mine hook 583x500_19
+  - first:
+      213: 4651003625632601933
+    second: Boat mine hook 583x500_20
+  - first:
+      213: 8726646312904398298
+    second: Boat mine hook 583x500_21
+  - first:
+      213: -3570133100729231246
+    second: Boat mine hook 583x500_22
+  - first:
+      213: -2684691943215952390
+    second: Boat mine hook 583x500_23
+  - first:
+      213: -1496118953310631529
+    second: Boat mine hook 583x500_24
+  - first:
+      213: -9160092280676434230
+    second: Boat mine hook 583x500_25
+  - first:
+      213: -7812777294490857110
+    second: Boat mine hook 583x500_26
+  - first:
+      213: -4310814695183188634
+    second: Boat mine hook 583x500_27
+  - first:
+      213: 5926621799364891060
+    second: Boat mine hook 583x500_28
+  - first:
+      213: -7142929049971446537
+    second: Boat mine hook 583x500_29
+  - first:
+      213: -2862443381586368975
+    second: Boat mine hook 583x500_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f90d14596062646bd632a0d7e826e3
+      internalID: 5129089909869770803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454bfd739c6482547aab82832315ed6a
+      internalID: -8381565406742539961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_2
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 3000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b05054baa2cc934daeb8c322a6b0256
+      internalID: -3376682441404399483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_3
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 3000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230dfe5a2f55ac84fba7971c18320369
+      internalID: 5026713519557113366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_4
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 3000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaa2ae038f0cce488d046e54fe151e2
+      internalID: 7229455832084475449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a3b8b109956a34c849624552e9cc6b
+      internalID: 3667082999650529755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba5fa5dbbe439e418bc8bad8a811c88
+      internalID: 6091170448407838894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_7
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 2500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4bc71bdc5107944b5e5401f0f4944b
+      internalID: -1109480734086227177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_8
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 2500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730c02b8fb436ae4fa9117cfc2986214
+      internalID: -4469009819845926901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_9
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 2500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b58f21ad7e7cf4c82c3e86babc397e
+      internalID: -6716258995690484413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270771ecfa2106d48b6829f2db8f30a6
+      internalID: -2007292750256350292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8083f0731a491f409ada3222dc577cd
+      internalID: 7262065906311159948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_12
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 2000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243042cbbcc185a42aaf59bea0abeba6
+      internalID: -150114997959652665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_13
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 2000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540ca1fb9887609409eef07e18579b2b
+      internalID: -1947089795108095598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_14
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 2000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73e45adb575e594cacf1802b2727baf
+      internalID: -3390618392118376491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bcda437198a6d4c835e4af5f851428
+      internalID: -2641588059371654146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_16
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f3b01c59fa0e64e9bd7c1f1d00c9b9
+      internalID: 5077328092390707222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_17
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf06096f15d356c45852d52121069adc
+      internalID: 8546654167608682823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_18
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bee21c928adcb74c9b0fa4d3e14850f
+      internalID: 3972226042067044177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_19
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de0449987e032346815126c6232a8f3
+      internalID: -8099577582995162929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d37bd25d9e8274b8037b06a7935737
+      internalID: 4651003625632601933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_21
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58988614dffe994abc28e4711052b35
+      internalID: 8726646312904398298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_22
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de6d813cbcef894c802b08eaca36b27
+      internalID: -3570133100729231246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_23
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ad567c65ad4e042a4b84d08e3222be
+      internalID: -2684691943215952390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_24
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1000
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a306bfb31ee3ae48b1c73383febb355
+      internalID: -1496118953310631529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3e12210b768c045891d80e6e4b5ad8
+      internalID: -9160092280676434230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_26
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a937c02a0cf28014f9b0b400efeb3aec
+      internalID: -7812777294490857110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_27
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfddd5844416e7743a8fcf5786150841
+      internalID: -4310814695183188634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_28
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3fef46b27063948b32729e08adb005
+      internalID: 5926621799364891060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_29
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 500
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d73013ba727419489235b3c983d0a8d
+      internalID: -7142929049971446537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat mine hook 583x500_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 583
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe865edfbe3cbd4faa34076f6c53502
+      internalID: -2862443381586368975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
